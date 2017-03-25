@@ -71,6 +71,10 @@ inoremap « <
 inoremap < «
 inoremap » >
 inoremap > »
+cnoremap « <
+cnoremap < «
+cnoremap » >
+cnoremap > »
 
 " Remaper la gestion des fenêtres
 " ———————————————————————————————
