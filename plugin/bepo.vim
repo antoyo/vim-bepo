@@ -63,19 +63,6 @@ noremap gÉ :exe "silent! tablast"<CR>
 " optionnel : {g"} pour aller au début de la ligne écran
 noremap g" g0
 
-" <> en direct
-" ————————————
-noremap « <
-noremap » >
-inoremap « <
-inoremap < «
-inoremap » >
-inoremap > »
-cnoremap « <
-cnoremap < «
-cnoremap » >
-cnoremap > »
-
 " Remaper la gestion des fenêtres
 " ———————————————————————————————
 noremap wt <C-w>j
